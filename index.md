@@ -14,3 +14,6 @@ Data analysis is the process of inspecting, cleansing, transforming, and modelin
 
 ###### Conclusion
 Data analysis is a critical skill in today's data-driven world. Mastering it can open up numerous opportunities in various fields.
+
+![Data Analytics](https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg)
+
