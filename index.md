@@ -17,3 +17,8 @@ Data analysis is a critical skill in today's data-driven world. Mastering it can
 
 ![Data Analytics](https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg)
 
+Here is an example of JavaScript code:
+
+```javascript
+var myVar = "Hello, world!";
+
